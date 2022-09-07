@@ -32,3 +32,15 @@ Route::get('/home', function (){
 Route::get('/shop', function (){
     return view('shop');
 });
+
+Route::get('/cart', function (){
+    return view('cart');
+});
+
+Route::get('/details', function (){
+    return view('details');
+});
+
+Route::get('/checkout', function (){
+    return view('checkout');
+});

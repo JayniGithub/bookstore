@@ -11,27 +11,31 @@
                 <img src="./images/register.png" class="img-fluid" alt="register-img">
               </div>
 
-                <form method="get" action="login.html">
-              <div class="py-2">
-                <input type="text" class="form-control border-info" placeholder="Enter Full Name">
-              </div>
+              <form method="get" action="login.html">
+                <div class="py-2">
+                  <input type="text" class="form-control border-info" placeholder="Enter Full Name">
+                </div>
 
-              <div class="py-2">
-                <input type="email" class="form-control border-info" placeholder="Enter Email Address">
-              </div>
+                <div class="py-2">
+                  <input type="email" class="form-control border-info" placeholder="Enter Email Address">
+                </div>
 
-              <div class="py-2">
-                <input type="text" class="form-control border-info" placeholder="Enter Phone No">
-              </div>
+                <div class="py-2">
+                  <input type="text" class="form-control border-info" placeholder="Enter Phone No">
+                </div>
 
-              <div class="py-2">
-                <input type="password" class="form-control border-info" placeholder="Enter Password">
-              </div>
+                <div class="py-2">
+                  <input type="password" class="form-control border-info" placeholder="Enter Password">
+                </div>
 
-              <div class="py-2">
-                <input type="button" class="form-control btn-info text-white" value="REGISTRATION">
-              </div>
-            </form>
+                <div class="py-2">
+                  <a type="button" class="form-control btn-info text-decoration-none text-center text-white">REGISTER</a>
+                </div>
+
+                <div class="py-2">
+                  <p class="text-center">Already Have an Account? <a href="/">LogIn</a></p>
+                </div>
+              </form>
             </div>
           </div>
         </div>

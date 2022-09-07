@@ -8,7 +8,7 @@
               </div>
 
               <div class="mt-3 text-center">
-                <img src="./images/login.png" class="img-fluid" alt="login-img">
+                <img src="/images/login.png" class="img-fluid" alt="login-img">
               </div>
 
                 <form method="get" action="signup.html">
@@ -27,7 +27,7 @@
               </div>
 
               <div class="py-2">
-                <a href="/register" type="button" class="form-control btn btn-info text-white text-decoration-none text-white text-center">REGISTER</a>
+                <p class="text-center">Don't Have an Account? <a href="/register">Sign Up</a></p>
               </div>
             </form>
             </div>

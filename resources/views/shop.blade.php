@@ -92,7 +92,11 @@
                             <div class="row">
                               <div class="col-12 col-md-6 col-lg-3 pb-3">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -103,7 +107,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -114,7 +122,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -125,7 +137,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -136,7 +152,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -147,7 +167,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -158,7 +182,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -169,7 +197,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                  <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -180,7 +212,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                                                    <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -191,7 +227,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                                                    <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -202,7 +242,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                                                    <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>
@@ -213,7 +257,11 @@
                               </div>
                               <div class="col-12 col-md-6 col-lg-3 pb-2">
                                 <div class="img-div">
-                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                                                                    <a href="/details">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" 
+                                      class="img-fluid" 
+                                      alt="">
+                                  </a>
                                 </div>
                                 <div class="details-div">
                                   <h5>Book Title</h5>

@@ -27,7 +27,7 @@
 
           <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand font-weight-bold" href="/">
-              <img src="./images/logo_nav.jpg" class="img-fluid rounded-circle" alt="logo-img">
+              <img src="/images/logo_nav.jpg" class="img-fluid rounded-circle" alt="logo-img">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -50,7 +50,7 @@
 
           <div class="d-flex titlebar px-3 justify-content-between py-2 bg-primary">
             <div class="titlebar-brand ">
-              <a href="#" class="nav-link h5 pl-0 text-light">BOOK HOUSE</a>
+              <a href="/" class="nav-link h5 pl-0 text-light">BOOK HOUSE</a>
             </div>
             <div class="d-flex search-form mr-3 align-items-center">
               <form class="form-inline">
@@ -58,7 +58,7 @@
               </form>
             </div>
             <div class="d-flex shopping-cart align-items-center ">
-              <a href="#"><i class="fa fa-shopping-cart text-danger" style="font-size:36px"></i></a>
+              <a href="/cart"><i class="fa fa-shopping-cart text-danger" style="font-size:36px"></i></a>
             </div>
           </div>
         </div>
