@@ -1,7 +1,18 @@
 <x-layout>
-    <x-caraousal/>
+  <x-navigation-bar />
+    {{-- <x-caraousal/> --}}
       <section class="body-section">
         <div class="container">
+          <div class="row">
+            <div class="col-6 col-md-12 pt-5">
+              <div class="book-search-div">
+                <form class="form-inline">
+                  <input class="form-control mr-2" type="search" placeholder="Search Book Here...">
+                  <button type="search" class="btn btn-primary">Search</button>
+                </form>
+              </div>
+            </div>
+          </div>
           <div class="row">
             <div class="col-12 col-md-5 py-5">
               <div class="category-table">
@@ -85,13 +96,6 @@
                     </tr>
                   </tbody>
                 </table>
-                <div class="seemore-link float-right mb-3">
-                  <div class="row bg-light">
-                    <div class="col-12">
-                      <a href="#" class="text-decoration-none">See More <i class="fa fa-angle-double-right"></i></a>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
 
@@ -108,7 +112,9 @@
                       <div class="row">
                         <div class="col-12 col-lg-3 pb-3">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -118,7 +124,9 @@
                         </div>
                         <div class="col-12 col-lg-3 pb-2">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -128,7 +136,9 @@
                         </div>
                         <div class="col-12 col-lg-3 pb-2">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -138,7 +148,9 @@
                         </div>
                         <div class="col-12 col-lg-3 pb-2">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -170,7 +182,9 @@
                       <div class="row">
                         <div class="col-12 col-lg-3 pb-3">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -180,7 +194,9 @@
                         </div>
                         <div class="col-12 col-lg-3 pb-2">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -190,7 +206,9 @@
                         </div>
                         <div class="col-12 col-lg-3 pb-2">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>
@@ -200,7 +218,9 @@
                         </div>
                         <div class="col-12 col-lg-3 pb-2">
                           <div class="img-div">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            <a href="/details">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuVNiRWYREKQ7cVrixxTGew1wbIFaIvHRK9y9Tcis&s" class="img-fluid" alt="">
+                            </a>
                           </div>
                           <div class="details-div">
                             <h5>Book Title</h5>

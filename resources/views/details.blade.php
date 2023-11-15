@@ -75,7 +75,10 @@
                                 </div>
                                 <div class="row my-3">
                                     <div class="col-12">
-                                        <button class="btn btn-info btn-block"><i class="fa fa-shopping-cart pr-2"></i>Add to Cart</button>
+                                        <div>
+                                            <button class="btn btn-info"><i class="fa fa-file-text-o pr-2"></i>Open</button>
+                                            <button class="btn btn-success"><i class="fa fa-download pr-2"></i>Download</button>
+                                          </div>
                                     </div>
                                 </div>
                             </div>

@@ -25,7 +25,7 @@
 
         <div class="container-fluid mx-0 px-0">
 
-          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          {{-- <nav class="navbar navbar-expand-lg navbar-light bg-primary">
             <a class="navbar-brand font-weight-bold" href="/">
               <img src="/images/logo_nav.jpg" class="img-fluid rounded-circle" alt="logo-img">
             </a>
@@ -41,14 +41,13 @@
               </div>
               <div class="authentication-links d-flex">
                 <div class="d-flex login ml-3">
-                    <a class="icon nav-link pr-0 text-danger h5"><i class="fa fa-user-circle-o"></i></a>
-                    <a class="icon-text nav-link pl-2  text-danger font-weight-bold" href="/">LOGOUT</a>
+                  <a href="/cart"><i class="fa fa-shopping-cart text-danger" style="font-size:36px"></i></a>
                 </div>
               </div>
             </div>            
-          </nav>
+          </nav> --}}
 
-          <div class="d-flex titlebar px-3 justify-content-between py-2 bg-primary">
+          {{-- <div class="d-flex titlebar px-3 justify-content-between py-2 bg-primary">
             <div class="titlebar-brand ">
               <a href="/" class="nav-link h5 pl-0 text-light">BOOK HOUSE</a>
             </div>
@@ -60,7 +59,7 @@
             <div class="d-flex shopping-cart align-items-center ">
               <a href="/cart"><i class="fa fa-shopping-cart text-danger" style="font-size:36px"></i></a>
             </div>
-          </div>
+          </div> --}}
         </div>
         {{ $slot }}
         <footer class="badge-primary py-3">

@@ -24,11 +24,7 @@
               </div>
 
               <div class="py-2">
-                <a href="/shop" type="button" class="form-control btn-danger text-decoration-none text-white text-center">LOGIN</a>
-              </div>
-
-              <div class="py-2">
-                <p class="text-center">Don't Have an Account? <a href="/register">Sign Up</a></p>
+                <a href="#" type="button" class="form-control btn-danger text-decoration-none text-white text-center">LOGIN</a>
               </div>
             </form>
             </div>

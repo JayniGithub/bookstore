@@ -18,15 +18,15 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/', function (){
-    return view('login');
+    return view('index');
 });
 
 Route::get('/register', function (){
     return view('register');
 });
 
-Route::get('/home', function (){
-    return view('index');
+Route::get('/login', function (){
+    return view('login');
 });
 
 Route::get('/shop', function (){
@@ -43,4 +43,8 @@ Route::get('/details', function (){
 
 Route::get('/checkout', function (){
     return view('checkout');
+});
+
+Route::get('/admin-login', function (){
+    return view('admin-login');
 });
