@@ -12,8 +12,8 @@
                 <img src="/images/login.png" class="img-fluid" alt="login-img">
               </div>
 
-                <form method="get" action="signup.html">
-
+              <form method="post" action="{{ route('admin.login') }}">
+                {{ csrf_field() }}
               <div class="py-2">
                 <input type="email" class="form-control border-info" name="email" placeholder="Enter Email Address">
               </div>
@@ -24,11 +24,12 @@
               </div>
 
               <div class="py-2">
-                <a href="#" type="button" class="form-control btn-danger text-decoration-none text-white text-center">LOGIN</a>
+                <button type="submit" class="btn form-control btn-danger text-decoration-none text-white text-center">LOGIN</button>
               </div>
             </form>
             </div>
           </div>
         </div>
       </div>
+  <x-footer />
 </x-layout>
