@@ -11,7 +11,7 @@
         <a class="nav-link font-weight-bold" href="/shop">Books</a>
         <a class="nav-link font-weight-bold" href="#">About Us</a>
         <a class="nav-link font-weight-bold" href="#">Contact Us</a>
-        <a class="nav-link font-weight-bold" href="/admin-login">Admin</a>
+        <a class="nav-link font-weight-bold" href="{{route('login')}}">Admin</a>
       </div>
       {{-- <div class="authentication-links d-flex">
         <div class="d-flex login ml-3">

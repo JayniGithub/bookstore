@@ -18,7 +18,10 @@
           integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" 
           crossorigin="anonymous"></script>
 
+        <script src="{{asset('/js/main.js')}}"></script>
+        
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{asset('/css/main.css')}}">
         <title>BOOK HOUSE - Online Book Store</title>
     </head>
     <body>
@@ -62,7 +65,7 @@
           </div> --}}
         </div>
         {{ $slot }}
-        <footer class="badge-primary py-3">
+        {{-- <footer class="badge-primary py-3">
           <div class="footer-top">
 		        <div class="container ">
 		        	<div class="row">
@@ -110,6 +113,7 @@
 	           	</div>
 	        	</div>
 	        </div>
-        </footer>
+        </footer> --}}
+        
     </body>
 </html>
